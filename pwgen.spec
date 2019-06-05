@@ -4,7 +4,7 @@
 #
 Name     : pwgen
 Version  : 2.08
-Release  : 2
+Release  : 3
 URL      : https://sourceforge.net/projects/pwgen/files/pwgen/2.08/pwgen-2.08.tar.gz
 Source0  : https://sourceforge.net/projects/pwgen/files/pwgen/2.08/pwgen-2.08.tar.gz
 Summary  : No detailed summary available
